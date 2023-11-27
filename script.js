@@ -4,13 +4,9 @@ let colorInput = document.getElementById("colorInput");
 
 let result = document.getElementById("nameOutput");
 
-
-//console.log(heckle);
-
 function printOutput() {
 
 let heckle;
-
 let age = parseInt(ageInput.value);
 
 if (age <= 25) {
